@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-learn",
+  "version": "1.0.0",
+  "description": "node.js in action (charpter3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitmq",
+    "node"
+  ],
+  "author": "joursion",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "when": "^3.7.7"
+  }
+}
